@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7XP+8r+iQD0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ollie\\Documents\\Rider Projects\\Old Projects\\OCM\\OCM\\OCM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ollie\\.nuget\\packages\\netstandard.library.ref\\2.1.0\\netstandard.library.ref.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
